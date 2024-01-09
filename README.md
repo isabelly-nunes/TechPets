@@ -56,9 +56,9 @@ Contribuições são bem-vindas! Se você tiver sugestões, encontrar problemas 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 ## Autores
-Isabelly Nunes (@isabelly-nunes)
-Natália Álvaro (@Natália-Álvaro)
-Rita Ribeiro (@ritacsribeiro)
-Thairine Morais (@Thairine-Morais)
+- Isabelly Nunes (@isabelly-nunes)
+- Natália Álvaro (@Natália-Álvaro)
+- Rita Ribeiro (@ritacsribeiro)
+- Thairine Morais (@Thairine-Morais)
 
 Agradecemos por explorar a Tech Pets! Esperamos que esta plataforma torne a busca por serviços mais fácil e eficiente.
