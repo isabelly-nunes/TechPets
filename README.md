@@ -34,8 +34,8 @@ Este projeto é o resultado do trabalho de conclusão de curso, visando criar um
 
 - **Responsividade:** Atualmente, o site não é responsivo. Estamos cientes desta limitação e planejamos desenvolver funcionalidades adicionais e tornar o site responsivo no futuro. Estamos abertos a sugestões e contribuições da comunidade para melhorar esse aspecto.
 
--  **Acesso ao Site Publicado:**
-  - Explore todas essas funcionalidades em ação visitando o [tech-pets.vercel.app]
+- **Acesso ao Site Publicado:**
+  -  Explore todas essas funcionalidades em ação visitando o [tech-pets.vercel.app]
 
 ## Como Iniciar
 
