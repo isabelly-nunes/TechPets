@@ -1,4 +1,4 @@
-# TECH PETS
+<h1 align= "center"> # TECH PETS </h1>
 
 Bem-vindo ao **Tech Pets**, um site inovador desenvolvido para facilitar a busca por serviços e profissionais que atendam às necessidades específicas dos clientes com seus pets, proporcionando uma experiência simplificada e eficiente.
 
