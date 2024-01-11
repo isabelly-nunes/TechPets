@@ -1,14 +1,24 @@
 # Índice
-*[Título e Imagem de capa]
-*[Visão Geral]
-*[Funcionalidades Principais]
-*[Como Iniciar]
-*[Pré-requisitos]
-*[Pessoas contribuidoras]
-*[Pessoas desenvolvedoras]
-*[Licença]
-*[Acesso ao projeto]
-*[Tecnologias utilizadas]
+*[Título e Imagem de capa] (#Título-e-Imagem-de-capa)
+
+
+*[Visão Geral] (#visão-geral)
+
+*[Funcionalidades Principais] (#funcionalidades-principais)
+
+*[Como Iniciar] (#como-iniciar)
+
+*[Pré-requisitos] (#pré-requisitos)
+
+*[Pessoas contribuidoras] (#pessoas-contribuidoras)
+
+*[Pessoas desenvolvedoras] (#pessoas-desenvolvedoras)
+
+*[Licença] (#licença)
+
+*[Acesso ao projeto] (#acesso-ao-projeto)
+
+*[Tecnologias utilizadas] (#tecnologias-utilizadas)
 
 ![logo-fundo-branco](https://github.com/isabelly-nunes/TechPets/assets/154274923/d5237e2c-20f7-4642-8adc-5e68ab00fb5b)
 <h1 align= "center"> # TECH PETS </h1>
