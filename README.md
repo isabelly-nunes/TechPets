@@ -1,3 +1,15 @@
+# Índice
+*[Título e Imagem de capa]
+*[Visão Geral]
+*[Funcionalidades Principais]
+*[Como Iniciar]
+*[Pré-requisitos]
+*[Pessoas contribuidoras]
+*[Pessoas desenvolvedoras]
+*[Licença]
+*[Acesso ao projeto]
+*[Tecnologias utilizadas]
+
 ![logo-fundo-branco](https://github.com/isabelly-nunes/TechPets/assets/154274923/d5237e2c-20f7-4642-8adc-5e68ab00fb5b)
 <h1 align= "center"> # TECH PETS </h1>
 
@@ -5,7 +17,7 @@ Bem-vindo ao **Tech Pets**, um site inovador desenvolvido para facilitar a busca
 
 ## Visão Geral
 
-Este projeto é o resultado do trabalho de conclusão de curso, visando criar uma plataforma amigável e acessível para conectar usuários a profissionais qualificados em diversas áreas de serviço. Utilizando tecnologias web modernas como HTML, CSS e JavaScript, Tech Pets oferece uma solução integrada para otimizar a busca por serviços.
+Este projeto é o resultado do trabalho de conclusão de curso, visando criar uma plataforma amigável e acessível para conectar usuários a profissionais qualificados em diversas áreas de serviço. Tech Pets oferece uma solução integrada para otimizar a busca por serviços.
 
 ## Funcionalidades Principais
 
@@ -35,9 +47,7 @@ Este projeto é o resultado do trabalho de conclusão de curso, visando criar um
 
 - **Responsividade:** Atualmente, o site não é responsivo. Estamos cientes desta limitação e planejamos desenvolver funcionalidades adicionais e tornar o site responsivo no futuro. Estamos abertos a sugestões e contribuições da comunidade para melhorar esse aspecto.
 
-- **Acesso ao Site Publicado:**
-  -  Explore todas essas funcionalidades em ação visitando o https://tech-pets.vercel.app/
-  -  
+ 
 ## Como Iniciar
 
 1. Clone este repositório em sua máquina local.
@@ -50,16 +60,23 @@ Este projeto é o resultado do trabalho de conclusão de curso, visando criar um
 ## Pré-requisitos
 Certifique-se de ter um navegador web atualizado para uma experiência ideal. Conexão com a internet também é necessária para acessar recursos em tempo real.
 
-## Contribuição
+## Pessoas Contribuidoras
 Contribuições são bem-vindas! Se você tiver sugestões, encontrar problemas ou desejar melhorar o projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-## Autores
+## Pessoas Desenvolvedoras
 - Isabelly Nunes (@isabelly-nunes)
 - Natália Álvaro (@Natália-Álvaro)
 - Rita Ribeiro (@ritacsribeiro)
 - Thairine Morais (@Thairine-Morais)
+
+## Licença
+- Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+## Acesso ao Projeto:
+  -  Explore todas essas funcionalidades em ação visitando: https://tech-pets.vercel.app/
+
+## Tecnologias Utilizdas
+  - Utilizando tecnologias web como HTML, CSS e JavaScript.
+
 
 Agradecemos por explorar a Tech Pets! Esperamos que esta plataforma torne a busca por serviços mais fácil e eficiente.
