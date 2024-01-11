@@ -1,3 +1,4 @@
+![logo-fundo-branco](https://github.com/isabelly-nunes/TechPets/assets/154274923/d5237e2c-20f7-4642-8adc-5e68ab00fb5b)
 <h1 align= "center"> # TECH PETS </h1>
 
 Bem-vindo ao **Tech Pets**, um site inovador desenvolvido para facilitar a busca por serviços e profissionais que atendam às necessidades específicas dos clientes com seus pets, proporcionando uma experiência simplificada e eficiente.
