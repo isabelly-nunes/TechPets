@@ -25,7 +25,8 @@
 
 Bem-vindo ao **Tech Pets**, um site inovador desenvolvido para facilitar a busca por serviços e profissionais que atendam às necessidades específicas dos clientes com seus pets, proporcionando uma experiência simplificada e eficiente.
 
-## Visão Geral
+## Visão Geral 
+> Status: em desenvolvimento :writing_hand:	
 
 Este projeto é o resultado do trabalho de conclusão de curso, visando criar uma plataforma amigável e acessível para conectar usuários a profissionais qualificados em diversas áreas de serviço. Tech Pets oferece uma solução integrada para otimizar a busca por serviços.
 
