@@ -33,30 +33,31 @@ Este projeto é o resultado do trabalho de conclusão de curso, visando criar um
 ## Funcionalidades Principais
 
 - **Cadastro e Login:**
-  - Os usuários podem realizar o cadastro no site para criar uma conta pessoal.
-  - A autenticação por login permite acesso às funcionalidades avançadas, como compras e agendamentos de serviços.
+  + Os usuários podem realizar o cadastro no site para criar uma conta pessoal.
+  + A autenticação por login permite acesso às funcionalidades avançadas, como compras e agendamentos de serviços.
  
 - **Serviços:** Integração de um sistema de agendamento para facilitar a marcação de serviços diretamente através do site.
 
 - **Agendamento de Serviços com Localização:**
-  - A funcionalidade de localização facilita a escolha de profissionais com base na proximidade geográfica, proporcionando conveniência aos usuários.
+  + A funcionalidade de localização facilita a escolha de profissionais com base na proximidade geográfica, proporcionando conveniência aos usuários.
 
 - **Painel Informativo:**
-  - Um painel dedicado fornece informações essenciais sobre adoção de animais, vacinação, castração e a possibilidade de denunciar casos de maus-tratos.
-  - Contribui para a conscientização e educação sobre cuidados com animais, reforçando a missão social da plataforma.
+  + Um painel dedicado fornece informações essenciais sobre adoção de animais, vacinação, castração e a possibilidade de denunciar casos de maus-tratos.
+  + Contribui para a conscientização e educação sobre cuidados com animais, reforçando a missão social da plataforma.
 
 - **Sessão "Conheça a TechPets":**
-  - Uma seção exclusiva permite aos usuários conhecer mais sobre a TechPets, incluindo sua missão, valores e compromisso com o bem-estar animal.
-  - Apresentação do time de desenvolvimento, proporcionando transparência e conexão com a equipe por trás do site.
+  + Uma seção exclusiva permite aos usuários conhecer mais sobre a TechPets, incluindo sua missão, valores e compromisso com o bem-estar animal.
+  + Apresentação do time de desenvolvimento, proporcionando transparência e conexão com a equipe por trás do site.
 
 - **Botões Clicáveis:**
-  - Botões de Redes Sociais
-  - Menu de "Login"
-  - Opção "Conheça nosso Time"
-  - Botão "Banho e Tosa" na seção de Serviços
-  - Opções de Checkbox na seção de Banho e tosa
+  + Botões de Redes Sociais
+  + Menu de "Login"
+  + Opção "Conheça nosso Time"
+  + Botão "Banho e Tosa" na seção de Serviços
+  + Opções de Checkbox na seção de Banho e tosa
 
 - **Responsividade:** Atualmente, o site não é responsivo. Estamos cientes desta limitação e planejamos desenvolver funcionalidades adicionais e tornar o site responsivo no futuro. Estamos abertos a sugestões e contribuições da comunidade para melhorar esse aspecto.
+  > Status: em desenvolvimento :writing_hand:	
 
  
 ## Como Iniciar
@@ -75,19 +76,19 @@ Certifique-se de ter um navegador web atualizado para uma experiência ideal. Co
 Contribuições são bem-vindas! Se você tiver sugestões, encontrar problemas ou desejar melhorar o projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Pessoas Desenvolvedoras
-- Isabelly Nunes (@isabelly-nunes)
-- Natália Álvaro (@Natália-Álvaro)
-- Rita Ribeiro (@ritacsribeiro)
-- Thairine Morais (@Thairine-Morais)
++ Isabelly Nunes (@isabelly-nunes)
++ Natália Álvaro (@Natália-Álvaro)
++ Rita Ribeiro (@ritacsribeiro)
++ Thairine Morais (@Thairine-Morais)
 
 ## Licença
-- Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
++ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 ## Acesso ao Projeto:
-  -  Explore todas essas funcionalidades em ação visitando: https://tech-pets.vercel.app/
+  +  Explore todas essas funcionalidades em ação visitando: https://tech-pets.vercel.app/
 
-## Tecnologias Utilizdas
-  - Utilizando tecnologias web como HTML, CSS e JavaScript.
+## Tecnologias Utilizadas
+  + Utilizando tecnologias web como HTML, CSS e JavaScript.
 
 
 Agradecemos por explorar a Tech Pets! Esperamos que esta plataforma torne a busca por serviços mais fácil e eficiente.
