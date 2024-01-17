@@ -1,36 +1,15 @@
-# Índice
-*[Título e Imagem de capa] (#Título-e-Imagem-de-capa)
+<p align="center">
+  <img src="https://github.com/isabelly-nunes/TechPets/assets/154274923/d5237e2c-20f7-4642-8adc-5e68ab00fb5b" alt="Logo TECH PETS">
+</p>
 
+<h1 align= "center"> TECH PETS </h1>
 
-*[Visão Geral] (#visão-geral)
+Bem-vindo ao **Tech Pets**, um site inovador desenvolvido para facilitar a busca por serviços e profissionais que atendam às necessidades específicas dos clientes com seus pets, proporcionando uma experiência simplificada e eficiente. 🐶
 
-*[Funcionalidades Principais] (#funcionalidades-principais)
-
-*[Como Iniciar] (#como-iniciar)
-
-*[Pré-requisitos] (#pré-requisitos)
-
-*[Pessoas contribuidoras] (#pessoas-contribuidoras)
-
-*[Pessoas desenvolvedoras] (#pessoas-desenvolvedoras)
-
-*[Licença] (#licença)
-
-*[Acesso ao projeto] (#acesso-ao-projeto)
-
-*[Tecnologias utilizadas] (#tecnologias-utilizadas)
-
-![logo-fundo-branco](https://github.com/isabelly-nunes/TechPets/assets/154274923/d5237e2c-20f7-4642-8adc-5e68ab00fb5b)
-<h1 align= "center"> # TECH PETS </h1>
-
-Bem-vindo ao **Tech Pets**, um site inovador desenvolvido para facilitar a busca por serviços e profissionais que atendam às necessidades específicas dos clientes com seus pets, proporcionando uma experiência simplificada e eficiente.
-
-## Visão Geral 
-> Status: em desenvolvimento :writing_hand:	
-
+## Visão Geral 🐾📄
 Este projeto é o resultado do trabalho de conclusão de curso, visando criar uma plataforma amigável e acessível para conectar usuários a profissionais qualificados em diversas áreas de serviço. Tech Pets oferece uma solução integrada para otimizar a busca por serviços.
 
-## Funcionalidades Principais
+## Funcionalidades Principais 🧩
 
 - **Cadastro e Login:**
   + Os usuários podem realizar o cadastro no site para criar uma conta pessoal.
@@ -60,7 +39,7 @@ Este projeto é o resultado do trabalho de conclusão de curso, visando criar um
   > Status: em desenvolvimento :writing_hand:	
 
  
-## Como Iniciar
+## Como Iniciar 🌐
 
 1. Clone este repositório em sua máquina local.
   https://github.com/isabelly-nunes/TechPets
@@ -69,13 +48,13 @@ Este projeto é o resultado do trabalho de conclusão de curso, visando criar um
 
 3. Explore as funcionalidades, experimente os botões clicáveis e compartilhe suas sugestões!
 
-## Pré-requisitos
+## Pré-requisitos 📝
 Certifique-se de ter um navegador web atualizado para uma experiência ideal. Conexão com a internet também é necessária para acessar recursos em tempo real.
 
 ## Pessoas Contribuidoras
 Contribuições são bem-vindas! Se você tiver sugestões, encontrar problemas ou desejar melhorar o projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Pessoas Desenvolvedoras
+## Pessoas Desenvolvedoras 🧑🏽‍🤝‍🧑🏿🧑🏽‍🤝‍🧑🏿
 + Isabelly Nunes (@isabelly-nunes)
 + Natália Álvaro (@Natália-Álvaro)
 + Rita Ribeiro (@ritacsribeiro)
@@ -83,12 +62,15 @@ Contribuições são bem-vindas! Se você tiver sugestões, encontrar problemas 
 
 ## Licença
 + Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
++   > Status: em desenvolvimento :writing_hand:	
 
 ## Acesso ao Projeto:
   +  Explore todas essas funcionalidades em ação visitando: https://tech-pets.vercel.app/
 
-## Tecnologias Utilizadas
-  + Utilizando tecnologias web como HTML, CSS e JavaScript.
+## Tecnologias Utilizadas 🔗
+  - HTML
+  - CSS
+  - JavaScript
 
 
 Agradecemos por explorar a Tech Pets! Esperamos que esta plataforma torne a busca por serviços mais fácil e eficiente.
